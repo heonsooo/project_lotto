@@ -4,7 +4,7 @@ from collections import Counter
 f = 'excel.xlsx'
 file = pd.read_excel(f)
 df = pd.DataFrame(file)
-df = df[:] # 범위 지정
+#df = df[:] # 범위 지정
 def lotto(df):
     main_Under_10, main_Under_20, main_Under_30, main_Under_40 , main_other = [],[],[],[],[]
     main_list = []
