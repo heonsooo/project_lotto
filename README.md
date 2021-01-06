@@ -1,6 +1,10 @@
 # project_lotto 로또 번호 분석 프로젝트입니다
-## 두개의 python기반 코딩을 했습니다. 1) 로또-연관 2) 회차별_당첨번호_랭킹
-   
+## 두개의 python기반 코딩을 했습니다. 
+1) 로또-연관   
+2) 회차별_당첨번호_랭킹  
+
+블로그 : https://lheon.tistory.com/14?category=904520
+
 ### 1) 로또-연관.ipynb    
 
 Text Mining 학습 후 tf-idf , consine similiarity를 실습하면서   
